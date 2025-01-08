@@ -93,9 +93,7 @@ pip install scapy
 
 - Must be run with root/admin privileges
 - Customize IP addresses and interfaces for your network
-- Regularly update blacklists and security rules
-- Monitor log files for suspicious activity
-- Test in a controlled environment before production use
+- Update blacklists and security rules
 
 ## Project Structure
 
