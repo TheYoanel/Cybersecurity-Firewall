@@ -116,6 +116,6 @@ Cybersecurity-Firewall/
 
 ## Disclaimer
 
-This firewall is for educational purposes. While it implements several security features, it should not be the sole security measure in a production environment.
+This firewall is for educational purposes.
 ```
 Feel free to modify any sections to better match your specific implementation or add additional details as needed.
