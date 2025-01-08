@@ -47,7 +47,7 @@ Located in `/firewalls/app_firewall.py`
 - Maintains detailed logs of security violations
 - Provides content sanitization for output
 
-### 4. Packet Firewall
+### 3.5 Packet Firewall
 Located in `/firewalls/packet_firewall.py`
 - Low-level packet analysis
 - TCP/IP header inspection
